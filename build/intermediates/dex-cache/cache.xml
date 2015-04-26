@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\classes-92edc5e8cacdfe4b38968536601fea72967d5304.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\classes-1d92c9bd3675c0a7e802149a6f6c42748fcc782f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\libs\core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\core-295370b325f3c992e35f02cbdf0f29f7028ad241.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-974beab4a7303e3a58def40f3488a0d4f742ae22.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-66d829cab7e6501431d5f01e2fe16fdbee0c67ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\wochacha_gradle\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5ef1bfe03e98425b5496a3388e875666f68b3d5">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\classes-2f3296f05b989ec206fe40ab3d63bc7d5f016782.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c90235c4b622d85edc979c5a20aafda100aaf13c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\exploded-aar\wochacha_gradle\viewPagerIndicator\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c096bb7c3d162159fb8313472bf256c9d53b3de8">
+        <dex dex="C:\Users\Hope\workspace\test\wochacha_gradle\wochacha\build\intermediates\pre-dexed\debug\classes-43c95305d574a784a7d8731a65ab9d8ddd974355.jar" />
+    </item>
+
+</items>

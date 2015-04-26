@@ -1,0 +1,3 @@
+include ':viewPagerIndicator'
+include ':library'
+include ':wochacha'
